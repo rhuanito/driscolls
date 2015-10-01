@@ -1,4 +1,4 @@
-// Simple sketch to establish serial communication, take measurements with a 10HS sensor, and 
+// Simple sketch to establish a serial communication, take measurements with a 10HS sensor, and 
 // output the values to the serial monitor every second
 
 void setup() {
