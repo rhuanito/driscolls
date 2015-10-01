@@ -1,3 +1,5 @@
+// No variables declared
+
 void setup() {
   // Initialize serial communication at 57,600 bits per second
   Serial.begin(57600);
