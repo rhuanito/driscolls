@@ -1,3 +1,6 @@
+// Simple sketch to establish serial communication, take measurements with a 10HS sensor, and 
+// output the values to the serial monitor every second
+
 void setup() {
   // Initialize serial communication at 57,600 bits per second
   Serial.begin(57600);
